@@ -1,4 +1,4 @@
-# 🔍 ReviewSense AI — E-Commerce Review Analyzer
+# 🔍 ReviewIQ — E-Commerce Review Analyzer
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.35-FF4B4B?style=flat&logo=streamlit&logoColor=white)
