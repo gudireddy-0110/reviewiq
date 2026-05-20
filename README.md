@@ -122,6 +122,11 @@ formatted = prompt.format(review="Great product!", category="Electronics")
   "confidence": "High"
 }
 ```
+<img width="1920" height="964" alt="Screenshot 2026-05-20 193256" src="https://github.com/user-attachments/assets/906bb513-e1a3-4d5e-a2ad-340b2b349ad8" />
+
+<img width="1920" height="967" alt="Screenshot 2026-05-20 193312" src="https://github.com/user-attachments/assets/c13f1864-b839-45a0-a5b3-0768cf53a586" />
+
+<img width="1920" height="964" alt="Screenshot 2026-05-20 193344" src="https://github.com/user-attachments/assets/f9849b32-b176-4791-9d53-d5ba76f69a7b" />
 
 ---
 
